@@ -1,0 +1,256 @@
+THelloIPad
+v7
+r0
+t316446894.012946
+cCheck dependencies
+cProcessInfoPlistFile /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/Info.plist HelloIPad-Info.plist
+cCompileXIB /Users/user/Documents/HelloIPad/MainWindow.xib
+cCompileXIB /Users/user/Documents/HelloIPad/HelloIPadViewController.xib
+cProcessPCH /var/folders/aI/aIo6fGoiHM4xHwQ3N1xByE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloIPad_Prefix-gjikoodjeqwuileqxafhddqfqtkx/HelloIPad_Prefix.pch.gch HelloIPad_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/Objects-normal/i386/main.o /Users/user/Documents/HelloIPad/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/Objects-normal/i386/HelloIPadAppDelegate.o /Users/user/Documents/HelloIPad/Classes/HelloIPadAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/Objects-normal/i386/HelloIPadViewController.o /Users/user/Documents/HelloIPad/Classes/HelloIPadViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/HelloIPad normal i386
+cGenerateDSYMFile /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app.dSYM /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/HelloIPad
+cTouch /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D13836B0000000000000110
+t1293124459
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/user/Documents/HelloIPad/Classes/HelloIPadAppDelegate.h
+c000000004D2C611F00000000000001E4
+t1294754079
+s484
+i<UIKit/UIKit.h>
+
+N/Users/user/Documents/HelloIPad/Classes/HelloIPadAppDelegate.m
+c000000004D2C611F00000000000007B7
+t1294754079
+s1975
+i"HelloIPadAppDelegate.h"
+i"HelloIPadViewController.h"
+
+N/Users/user/Documents/HelloIPad/Classes/HelloIPadViewController.h
+c000000004D2C611F00000000000000ED
+t1294754079
+s237
+i<UIKit/UIKit.h>
+
+N/Users/user/Documents/HelloIPad/Classes/HelloIPadViewController.m
+c000000004D2C611F0000000000000559
+t1294754079
+s1369
+i"HelloIPadViewController.h"
+
+N/Users/user/Documents/HelloIPad/HelloIPadViewController.xib
+c000000004D2C611F0000000000003EE9
+t1294754079
+s16105
+
+N/Users/user/Documents/HelloIPad/HelloIPad_Prefix.pch
+c000000004D2C611F00000000000000BB
+t1294754079
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/user/Documents/HelloIPad/MainWindow.xib
+c000000004D2C611F0000000000004D1D
+t1294754079
+s19741
+
+N/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app
+t1294754094
+s238
+
+N/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app.dSYM
+t1294754093
+s102
+
+N/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/HelloIPad
+t1294754093
+s16980
+
+N/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/HelloIPadViewController.nib
+t1294754092
+s764
+
+N/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/Info.plist
+t1294754091
+s806
+
+N/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/MainWindow.nib
+t1294754091
+s1127
+
+N/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/PkgInfo
+t1294754091
+s8
+
+N/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/Objects-normal/i386/HelloIPad.LinkFileList
+c000000004D2C612A0000000000000188
+t1294754090
+s392
+
+N/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/Objects-normal/i386/HelloIPadAppDelegate.o
+t1294754093
+s50180
+
+N/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/Objects-normal/i386/HelloIPadViewController.o
+t1294754093
+s38068
+
+N/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/Objects-normal/i386/main.o
+t1294754093
+s6288
+
+N/Users/user/Documents/HelloIPad/main.m
+c000000004D2C611F0000000000000164
+t1294754079
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/aI/aIo6fGoiHM4xHwQ3N1xByE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloIPad_Prefix-gjikoodjeqwuileqxafhddqfqtkx/HelloIPad_Prefix.pch.gch
+t1294754093
+s10360536
+
+NHelloIPad-Info.plist
+c000000004D2C611F00000000000004D6
+t1294754079
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316446890#316446890#0(0"0(0#1#0"4255560#0"0#
+
+CCompileC build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/Objects-normal/i386/HelloIPadAppDelegate.o /Users/user/Documents/HelloIPad/Classes/HelloIPadAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316446893.433110
+e316446893.518776
+r1
+xCompileC
+xbuild/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/Objects-normal/i386/HelloIPadAppDelegate.o
+x/Users/user/Documents/HelloIPad/Classes/HelloIPadAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/user/Documents/HelloIPad/Classes/HelloIPadAppDelegate.m316446893#316446893#0(0"0(0#0#62"/Users/user/Documents/HelloIPad/Classes/HelloIPadAppDelegate.m2478776256#1917"    cd /Users/user/Documents/HelloIPad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/HelloIPad-generated-files.hmap -I/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/HelloIPad-own-target-headers.hmap -I/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/HelloIPad-all-target-headers.hmap -iquote /Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/HelloIPad-project-headers.hmap -F/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator -I/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/include -I/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/DerivedSources/i386 -I/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/DerivedSources -include /var/folders/aI/aIo6fGoiHM4xHwQ3N1xByE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloIPad_Prefix-gjikoodjeqwuileqxafhddqfqtkx/HelloIPad_Prefix.pch -c /Users/user/Documents/HelloIPad/Classes/HelloIPadAppDelegate.m -o /Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/Objects-normal/i386/HelloIPadAppDelegate.o0#
+
+CCompileC build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/Objects-normal/i386/HelloIPadViewController.o /Users/user/Documents/HelloIPad/Classes/HelloIPadViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316446893.518861
+e316446893.613785
+r1
+xCompileC
+xbuild/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/Objects-normal/i386/HelloIPadViewController.o
+x/Users/user/Documents/HelloIPad/Classes/HelloIPadViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/user/Documents/HelloIPad/Classes/HelloIPadViewController.m316446893#316446893#0(0"0(0#0#65"/Users/user/Documents/HelloIPad/Classes/HelloIPadViewController.m2478776256#1923"    cd /Users/user/Documents/HelloIPad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/HelloIPad-generated-files.hmap -I/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/HelloIPad-own-target-headers.hmap -I/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/HelloIPad-all-target-headers.hmap -iquote /Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/HelloIPad-project-headers.hmap -F/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator -I/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/include -I/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/DerivedSources/i386 -I/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/DerivedSources -include /var/folders/aI/aIo6fGoiHM4xHwQ3N1xByE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloIPad_Prefix-gjikoodjeqwuileqxafhddqfqtkx/HelloIPad_Prefix.pch -c /Users/user/Documents/HelloIPad/Classes/HelloIPadViewController.m -o /Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/Objects-normal/i386/HelloIPadViewController.o0#
+
+CCompileC build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/Objects-normal/i386/main.o /Users/user/Documents/HelloIPad/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316446893.242203
+e316446893.433024
+r1
+xCompileC
+xbuild/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/Objects-normal/i386/main.o
+x/Users/user/Documents/HelloIPad/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/user/Documents/HelloIPad/main.m316446893#316446893#0(0"0(0#0#38"/Users/user/Documents/HelloIPad/main.m2478776256#1877"    cd /Users/user/Documents/HelloIPad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/HelloIPad-generated-files.hmap -I/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/HelloIPad-own-target-headers.hmap -I/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/HelloIPad-all-target-headers.hmap -iquote /Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/HelloIPad-project-headers.hmap -F/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator -I/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/include -I/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/DerivedSources/i386 -I/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/DerivedSources -include /var/folders/aI/aIo6fGoiHM4xHwQ3N1xByE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloIPad_Prefix-gjikoodjeqwuileqxafhddqfqtkx/HelloIPad_Prefix.pch -c /Users/user/Documents/HelloIPad/main.m -o /Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/user/Documents/HelloIPad/HelloIPadViewController.xib
+s316446891.743796
+e316446892.333299
+r1
+xCompileXIB
+x/Users/user/Documents/HelloIPad/HelloIPadViewController.xib
+lSLF07#2@38"CompileXIB HelloIPadViewController.xib316446891#316446892#0(0"0(0#0#59"/Users/user/Documents/HelloIPad/HelloIPadViewController.xib4255560#577"    cd /Users/user/Documents/HelloIPad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/HelloIPadViewController.nib /Users/user/Documents/HelloIPad/HelloIPadViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/user/Documents/HelloIPad/MainWindow.xib
+s316446891.053094
+e316446891.743724
+r1
+xCompileXIB
+x/Users/user/Documents/HelloIPad/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib316446891#316446891#0(0"0(0#0#46"/Users/user/Documents/HelloIPad/MainWindow.xib4742288#551"    cd /Users/user/Documents/HelloIPad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/MainWindow.nib /Users/user/Documents/HelloIPad/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app.dSYM /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/HelloIPad
+s316446893.900520
+e316446893.979329
+r1
+xGenerateDSYMFile
+x/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app.dSYM
+x/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/HelloIPad
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/HelloIPad.app.dSYM build/Debug-iphonesimulator/HelloIPad.app/HelloIPad316446893#316446893#0(0"0(0#0#83"/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/HelloIPad2478776256#368"    cd /Users/user/Documents/HelloIPad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/HelloIPad -o /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app.dSYM0#
+
+CLd /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/HelloIPad normal i386
+s316446893.613863
+e316446893.900438
+r1
+xLd
+x/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/HelloIPad
+xnormal
+xi386
+lSLF07#2@88"Link /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/HelloIPad316446893#316446893#0(0"0(0#0#0"2478776256#875"    cd /Users/user/Documents/HelloIPad    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator -F/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator -filelist /Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/Objects-normal/i386/HelloIPad.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/HelloIPad0#
+
+CProcessInfoPlistFile /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/Info.plist HelloIPad-Info.plist
+s316446890.998051
+e316446891.052994
+r1
+xProcessInfoPlistFile
+x/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/Info.plist
+xHelloIPad-Info.plist
+lSLF07#2@28"Process HelloIPad-Info.plist316446891#316446891#0(0"0(0#0#52"/Users/user/Documents/HelloIPad/HelloIPad-Info.plist4255560#464"    cd /Users/user/Documents/HelloIPad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HelloIPad-Info.plist -genpkginfo /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app/Info.plist0#
+
+CProcessPCH /var/folders/aI/aIo6fGoiHM4xHwQ3N1xByE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloIPad_Prefix-gjikoodjeqwuileqxafhddqfqtkx/HelloIPad_Prefix.pch.gch HelloIPad_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316446892.333415
+e316446893.242063
+r1
+xProcessPCH
+x/var/folders/aI/aIo6fGoiHM4xHwQ3N1xByE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloIPad_Prefix-gjikoodjeqwuileqxafhddqfqtkx/HelloIPad_Prefix.pch.gch
+xHelloIPad_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile HelloIPad_Prefix.pch316446892#316446893#0(0"0(0#0#52"/Users/user/Documents/HelloIPad/HelloIPad_Prefix.pch2478776256#1774"    cd /Users/user/Documents/HelloIPad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/HelloIPad-generated-files.hmap -I/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/HelloIPad-own-target-headers.hmap -I/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/HelloIPad-all-target-headers.hmap -iquote /Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/HelloIPad-project-headers.hmap -F/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator -I/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/include -I/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/DerivedSources/i386 -I/Users/user/Documents/HelloIPad/build/HelloIPad.build/Debug-iphonesimulator/HelloIPad.build/DerivedSources -c /Users/user/Documents/HelloIPad/HelloIPad_Prefix.pch -o /var/folders/aI/aIo6fGoiHM4xHwQ3N1xByE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloIPad_Prefix-gjikoodjeqwuileqxafhddqfqtkx/HelloIPad_Prefix.pch.gch0#
+
+CTouch /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app
+s316446893.979404
+e316446894.012907
+r1
+xTouch
+x/Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app
+lSLF07#2@79"Touch /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app316446893#316446894#0(0"0(0#0#0"2478776256#266"    cd /Users/user/Documents/HelloIPad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/user/Documents/HelloIPad/build/Debug-iphonesimulator/HelloIPad.app0#
+
