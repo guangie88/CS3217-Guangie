@@ -6,19 +6,48 @@
 //
 
 #import "PERectangle.h"
+#import <math.h>
 
 @implementation PERectangle
 // OVERVIEW: This class implements a rectangle and the associated
 //             operations.
 
 // property area
-@synthesize CGFloat width, height;
-
-- (CGPoint)center {
-  // EFFECTS: returns the coordinates of the centre of mass for this
-  // rectangle.
-
+@synthesize CGPoint origin;
+@synthesize CGFloat width, height, rotation;
 	
+- (CGPoint)center {
+	// EFFECTS: returns the coordinates of the centre of mass for this
+	// rectangle.
+
+	// first, get the top-left coordinates
+	CGPoint originPoint = [self cornerFrom:kTopLeftCorner];
+	
+	// now we get the distance between the top-left origin point and the centre of mass
+	// Pythagoras' Theorem would be applied here
+	// this distance will be known as diagonalToCenter
+	
+	CGFloat halfWidth = self.width / 2;
+	CGFloat halfHeight = self.height / 2;
+	CGFloat diagonalToCenter = sqrt(halfWidth * halfWidth + halfHeight * halfHeight);
+	
+	// next, we find the angle from the line along width (horizontal line)
+	// to the line connecting to the center of mass
+	// this angle will be called angleToCenter
+	
+	CGFloat angleToCenter = atan(halfHeight / halfWidth);
+	
+	// using some rotation formula
+	// we will use all the previously computed result
+	// to get the rotated center of mass value
+	// basically just breaking down and calculating the new x and y components
+	
+	CGPoint rotatedCenter;
+	
+	rotatedCenter.x = originPoint.x + diagonalToCenter * cos(angle + self.rotation);
+	rotatedCenter.y = originPoint.y + diagonalToCenter * sin(angle + self.rotation);
+	
+	return rotatedCenter;
 }
 
 - (CGPoint)cornerFrom:(CornerType)corner {
