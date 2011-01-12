@@ -2,7 +2,7 @@
 //  PERectangle.m
 //  
 //  CS3217 || Assignment 1
-//  Name: <Your name here>
+//  Name: Chen Weiguang
 //
 
 #import "PERectangle.h"
@@ -11,10 +11,14 @@
 // OVERVIEW: This class implements a rectangle and the associated
 //             operations.
 
+// property area
+@synthesize CGFloat width, height;
+
 - (CGPoint)center {
   // EFFECTS: returns the coordinates of the centre of mass for this
   // rectangle.
 
+	
 }
 
 - (CGPoint)cornerFrom:(CornerType)corner {
